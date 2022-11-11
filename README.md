@@ -21,5 +21,7 @@ IDE: STM32CubeIDE
   - _**[Demo video](https://youtu.be/OU_bwiHbm_o)**_
 - [lab 7](https://github.com/Ivanchenko59/stm32-labs/tree/master/lab07)
   - _**[Demo video](https://youtu.be/l8Zm08LSVX8)**_
+- [lab 8](https://github.com/Ivanchenko59/stm32-labs/tree/master/lab08)
+  - _**[Demo video](https://youtu.be/FWFblpDO6nU)**_
 
 
